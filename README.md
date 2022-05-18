@@ -46,7 +46,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/TiagoBrandaoo/TiagoBrandaoo/blob/main/.github/workflows/snake.yml)
+ ![Snake animation](https://github.com/tiagobrandaoo/tiagobrandaoo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
