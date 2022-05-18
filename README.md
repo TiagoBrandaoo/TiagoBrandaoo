@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/tiago-brandão-b774a6235/" style="color: #9645F4" ><i>Tiago Brandão</i></a> </h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/tiago-brandão-b774a6235/"><i>Tiago Brandão</i></a> </h1>
   <p align="center">Atuo na área mobile com React Native e estudante de Engenharia de Software.
 </div>
 
@@ -7,7 +7,7 @@
 <div align="center">
   <a href="[https://github.com/TiagoBrandaoo]">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagobrandaoo&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="150em" style="margintop: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobrandaoo&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="150em" style="marginTop: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobrandaoo&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div><br>
 
